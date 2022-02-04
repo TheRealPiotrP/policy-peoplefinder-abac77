@@ -1,3 +1,4 @@
+#!/usr/bin/zsh
 for i in {1..30}
 do
   echo "Bumping version: iteration $i"
